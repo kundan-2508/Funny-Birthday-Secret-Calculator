@@ -1,0 +1,12 @@
+body
+{
+	background:url(../img/bg.png);
+	max-width:100%;
+}
+.heading
+{
+	color:#e59b40;
+	opacity:.7;
+	text-align:center;
+}
+
